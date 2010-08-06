@@ -15,7 +15,8 @@
     {
       "matches": [
         "http://*/*",
-        "https://*/*"
+        "https://*/*",
+        "ftp://*/*"
       ],
       "js": [
         "js/lib/jquery.1.4.2.min.js",
